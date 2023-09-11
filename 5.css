@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    cursor: default;
+}
+
+div#torch{
+    z-index: -1;
+    position: fixed;
+    width: 2vw;
+    height: 2vw;
+    background-color: pink;
+    border-radius: 50%;
+}
